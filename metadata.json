@@ -1,0 +1,6 @@
+{
+  "name": "P-Pick — India Home Maintenance Platform",
+  "description": "Pan-India home maintenance booking platform connecting households with verified plumbers, electricians, AC technicians, and aluminum channel specialists.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": []
+}
